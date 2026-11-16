@@ -1,0 +1,7 @@
+# Versions used for the results in the paper (Python 3.14, CUDA 13.2).
+torch==2.14.1
+numpy==2.4.4
+scipy==1.18.0
+matplotlib==3.11.0
+pillow==12.2.0
+torch-fidelity==0.4.0
